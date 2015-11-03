@@ -1,1 +1,5 @@
-this is a modified file
+<<<<<<< HEAD
+this is a modified file from computer
+=======
+this is a modified file from github site with branch2
+>>>>>>> aa2efc87a9d185bbf9614d11721b6fbf03e7dfb8
